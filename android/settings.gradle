@@ -1,0 +1,3 @@
+rootProject.name = 'Pliro'
+
+include ':app'
